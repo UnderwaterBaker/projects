@@ -1,4 +1,4 @@
-import random
+import random #imports the random module
 
 guesses = 0
 
