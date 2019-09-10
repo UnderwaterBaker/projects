@@ -32,3 +32,6 @@ Scan details below
     print(ns.command_line()) #shows the command nmap used in the terminal window
     print(ns.scaninfo()) #shows details about the scan is the terminal window
     print(ns.csv()) #show open and closed ports in console
+
+    
+    
