@@ -32,8 +32,3 @@ Scan details below
     print(ns.command_line()) #shows the command nmap used in the terminal window
     print(ns.scaninfo()) #shows details about the scan is the terminal window
     print(ns.csv()) #show open and closed ports in console
-
-    if ip_addr == 'die':
-        print("dont forget to leave a like comment and subscribe")
-        break
-
